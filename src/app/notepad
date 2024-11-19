@@ -1,0 +1,13 @@
+ mobile reponSive (Use in all devices)
+ 1:           <Flexbox>
+ 2:          Grid
+
+"Flexbox":
+          web page divide in 12 columns (12 X 1 = 12)
+          6x2=12
+          4x3=12
+          3x4=12
+          2x6=12
+first rule breake web page in 12 columns
+flex class always applied on parent element.
+          
