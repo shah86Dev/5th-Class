@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
     <header>
-      <nav className=" flex w-full bg-black h-32 items-center">
+      <nav className=" flex w-full bg-black h-10 items-center">
         <div className="flex justify-center font-bold bg-purple-700 h-10 w-44">Logo</div>
 
 
